@@ -1,1 +1,10 @@
-
+{
+  "name": "MR ALL — Sistem Dagang",
+  "short_name": "MR ALL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#12304a",
+  "description": "Sistem dagang MR ALL",
+  "icons": []
+}
