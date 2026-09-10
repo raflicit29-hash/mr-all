@@ -1,10 +1,25 @@
 {
   "name": "MR ALL — Sistem Dagang",
   "short_name": "MR ALL",
+  "description": "MR ALL — Sistem Dagang",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fa",
-  "theme_color": "#12304a",
-  "description": "Sistem dagang MR ALL",
-  "icons": []
+  "background_color": "#05070b",
+  "theme_color": "#05070b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
